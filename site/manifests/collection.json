@@ -1,0 +1,1 @@
+{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://pbinkley.github.io/non-github-pages/manifests/collection.json","type":"Collection","label":{"en":["Non-Github Pages site"]},"items":[{"id":"https://pbinkley.github.io/non-github-pages/manifests/12th-century-bibles.json","type":"Manifest","label":{"en":["12th Century Bibles"]}}]}
